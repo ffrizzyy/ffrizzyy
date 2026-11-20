@@ -10,7 +10,7 @@
 
 <br/>
 
-<p><i>When the plan works, I'm a <b>mastermind</b>.<br/>When it doesn't, it was a <b>prototype</b>, and I'm never the problem.</i></p>
+<p><i>When the plan works, I'm a <b>mastermind</b>.<br/>When it doesn't, the world wasn’t <b>ready</b>.</i></p>
 
 <img src="https://komarev.com/ghpvc/?username=ffrizzyy&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
