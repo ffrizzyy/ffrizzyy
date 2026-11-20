@@ -12,7 +12,6 @@
 <a href="https://www.linkedin.com/in/ffrizzy/"><img src="https://img.shields.io/badge/LinkedIn-ffrizzy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/farrel_blablablabla/"><img src="https://img.shields.io/badge/Instagram-farrel__blablablabla-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:m.farrel2222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/628117441165"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
 
