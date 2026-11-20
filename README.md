@@ -45,19 +45,23 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:36BCF7,100:0d1117&height=2" />
 <br/>
 
-<!-- ───────────── GITHUB STATS ───────────── -->
+<!-- ───────────── GITHUB STATS (live, self-generated) ───────────── -->
 <h3>📊 GitHub Stats</h3>
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ffrizzy&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrizzy&layout=compact&theme=transparent&title_color=36BCF7&text_color=c9d1d9&hide_border=true&langs_count=6" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+<p>
+  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=ffrizzy&theme=transparent&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true" />
+<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true&cache_seconds=3600" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ffrizzy&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&radius=8" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&radius=8" />
 
 <!-- ───────────── FOOTER ───────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0b3d5c,100:36BCF7&height=120&section=footer&reversal=true" width="100%" />
