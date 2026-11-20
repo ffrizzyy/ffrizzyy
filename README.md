@@ -57,7 +57,7 @@
   <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true&cache_seconds=3600" />
+<img width="85%" src="https://streak-stats.demolab.com?user=ffrizzyyE&theme=transparent&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true&cache_seconds=3600" />
 
 <br/><br/>
 
