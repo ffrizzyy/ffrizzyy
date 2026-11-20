@@ -5,7 +5,7 @@
 
 <!-- ───────────── TYPING ───────────── -->
 <a href="https://ffrizzy.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Hi%2C+I'm+Farrel.;IT+Specialist+%2F+AI+Engineer;Building+with+TypeScript%2C+Python+%26+Go;Turning+prototypes+into+products." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Hi%2C+I'm+Farrel.;IT+Specialist+%2F+AI+Engineer" alt="Typing animation" />
 </a>
 
 <br/>
