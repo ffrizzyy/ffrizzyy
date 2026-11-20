@@ -1,24 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Farrel%20Frizzy&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Jakarta%2C%20Indonesia&descSize=16&descAlignY=58" width="100%" />
+<!-- ───────────── HEADER ───────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0b3d5c,100:36BCF7&height=220&section=header&text=Farrel%20Frizzy&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Jakarta%2C%20Indonesia&descSize=18&descColor=bfe9fc&descAlignY=58" width="100%" />
 
+<!-- ───────────── TYPING ───────────── -->
 <a href="https://ffrizzy.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Farrel.;IT+Specialist+%2F+AI+Engineer" alt="IT Specialist / AI Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Hi%2C+I'm+Farrel.;IT+Specialist+%2F+AI+Engineer;Building+with+TypeScript%2C+Python+%26+Go;Turning+prototypes+into+products." alt="Typing animation" />
 </a>
 
-<p><i>When the plan works, I'm a <b>mastermind</b>. When it doesn't, it was a <b>prototype</b>, and I'm never the problem.</i></p>
+<br/>
 
-<a href="https://ffrizzy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ffrizzy.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ffrizzy/"><img src="https://img.shields.io/badge/LinkedIn-ffrizzy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/farrel_blablablabla/"><img src="https://img.shields.io/badge/Instagram-farrel__blablablabla-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://ffrizzy.substack.com/"><img src="https://img.shields.io/badge/Substack-ffrizzy-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
-<a href="https://ffrizzy.medium.com/"><img src="https://img.shields.io/badge/Medium-ffrizzy-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="mailto:m.farrel2222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p><i>When the plan works, I'm a <b>mastermind</b>.<br/>When it doesn't, it was a <b>prototype</b>, and I'm never the problem.</i></p>
+
+<img src="https://komarev.com/ghpvc/?username=ffrizzy&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,go,nextjs,react,nodejs,express,fastapi,tailwind,sqlite,docker,git,figma,ps" />
+<!-- ───────────── LINKS ───────────── -->
+<a href="https://ffrizzy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ffrizzy.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/ffrizzy/"><img src="https://img.shields.io/badge/LinkedIn-ffrizzy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://www.instagram.com/farrel_blablablabla/"><img src="https://img.shields.io/badge/Instagram-farrel__blablablabla-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
+<br/>
+<a href="https://ffrizzy.substack.com/"><img src="https://img.shields.io/badge/Substack-ffrizzy-FF6719?style=for-the-badge&logo=substack&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://ffrizzy.medium.com/"><img src="https://img.shields.io/badge/Medium-ffrizzy-ffffff?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:m.farrel2222@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:36BCF7,100:0d1117&height=2" />
+<br/>
+
+<!-- ───────────── TECH STACK ───────────── -->
+<h3>⚡ Tech Stack</h3>
+
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,go&perline=8" /><br/><br/>
+
+<sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,fastapi,tailwind&perline=8" /><br/><br/>
+
+<sub><b>DATA &amp; TOOLING</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=sqlite,docker,git,figma,ps&perline=8" />
+
+<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:36BCF7,100:0d1117&height=2" />
+<br/>
+
+<!-- ───────────── GITHUB STATS ───────────── -->
+<h3>📊 GitHub Stats</h3>
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ffrizzy&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffrizzy&layout=compact&theme=transparent&title_color=36BCF7&text_color=c9d1d9&hide_border=true&langs_count=6" />
+</p>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=ffrizzy&theme=transparent&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ffrizzy&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&radius=8" />
+
+<!-- ───────────── FOOTER ───────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0b3d5c,100:36BCF7&height=120&section=footer&reversal=true" width="100%" />
 
 </div>
