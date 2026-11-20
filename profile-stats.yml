@@ -3,7 +3,7 @@ name: Profile Stats
 on:
   schedule:
     - cron: "0 */6 * * *"   # every 6 hours
-  workflow_dispatch:
+  workflow_dispatch:         # allows manual runs from the Actions tab
   push:
     branches: [main]
 
@@ -20,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ffrizzyy
           UTC_OFFSET: 7
 
       - name: Commit generated cards
